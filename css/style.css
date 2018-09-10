@@ -1,0 +1,108 @@
+/* Start Home css */
+.carrer{
+    color: rgb(243, 249, 250);
+}
+.block-teaser{
+    position: relative;
+    width: 100%;
+}
+
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.home-name h1{
+    font-size: 55px;
+}
+.home-name h2{
+    font-size: 30px;
+}
+.icon-twitter:hover, .icon-linkedin:hover{
+    color: #159cdb;
+    font-size: 40px;
+}
+.icon-facebook:hover, .icon-skype:hover{
+    color: #337ab7;
+    font-size: 40px;
+}
+.git-bg{
+    background-color: transparent !important;
+}
+.icon-github:hover{
+    color:#200505;
+    background-color: none !important;
+    font-size: 40px;
+}
+.icon-wordpress:hover{
+    color: #030e18;
+    font-size: 40px;
+}
+
+#exp-ico:hover{
+    color: #337ab7;
+    font-size: 40px;
+}
+
+/* End Home css */
+
+
+/* Start My Resume Css */
+.block-icon:hover i{
+    font-size: 40px;
+    color: #0077B5;
+}
+
+.hgroup-title{
+    font-size: 16px !important;
+    color: #337ab7 !important;
+    font-weight: bold;
+}
+.hgroup-title:hover{
+    font-size: 19px !important;
+}
+
+.block-icon:hover i, {
+    color: #337ab7;
+    font-size: 70px;
+}
+/* End My Resumme Css */
+
+
+/* Start Portfolio Css*/
+.title-project{
+    font-size: 20px;
+    font-weight: bold;
+}
+.project-name{
+    font-weight: bold !important;
+    color: rgb(226, 230, 36) !important;
+    font-size: 40px;
+}
+/* End Portfolio Css*/
+
+/*Social item  Css*/
+.icon-facebook-circled{
+    background-color: #365899;
+}
+.icon-twitter-circled{
+    background-color: #46D89E;
+}
+.icon-linkedin-circled{
+    background-color: #0077B5;
+}
+#git{
+    font-size: 20px;
+}
+.icon-dribbble-circled{
+    background-color: black;
+}
+#fb:hover i, #tw:hover i, #lin:hover i, #wp:hover i{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+/* End item  Css */
