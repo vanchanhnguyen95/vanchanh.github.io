@@ -2,7 +2,14 @@
 .carrer{
     color: rgb(243, 249, 250);
     font-weight: bold;
-    padding-bottom: 10px;
+    padding-bottom: 5px !important;
+}
+
+.carrer1{
+    font-size: 40px !important;
+}
+.carrer2{
+    font-size: 27px !important;
 }
 
 .block-teaser{
